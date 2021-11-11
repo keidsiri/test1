@@ -35,11 +35,9 @@ _{This is a detailed description of your application. Give as much detail as nee
 * _None so far_
 
 ## License 
-[MIT](https://opensource.org/licenses/MIT)
+### [MIT](https://opensource.org/licenses/MIT) Copyright (c) _2021_ _Kate Kiatsiri_
 
-Copyright (c) _2021_ _Kate Kiatsiri_
-
-_If you have any questions please feel free to [Contact me](mailto:keidsiri@gmail.com)_
+_If you have any questions please feel free to [contact me](mailto:keidsiri@gmail.com)_
 
 # Practice: TDD 
 
