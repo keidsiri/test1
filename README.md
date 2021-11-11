@@ -35,3 +35,29 @@ _{This is a detailed description of your application. Give as much detail as nee
 _If you run into any problems/bugs feel free to send me an email @mc.casperson@gmail.com with details._
 
 Copyright (c) _2021_ _Name_
+
+
+
+Ping-pong is a classic programming exercise that utilizes branching and looping. Here's how it works:
+
+A user enters a number and the application returns all numbers from 1 to the user input with the following changes:
+All numbers divisible by 3 are replaced by "ping".
+All numbers divisible by 5 are replaced by "pong"
+All numbers divisible by both 3 and 5 are replaced by "ping-pong".
+
+If the user enters 15, the program will return:
+1
+2
+"ping"
+4
+"pong"
+"ping"
+7
+8
+"ping"
+"pong"
+11
+"ping"
+13
+14
+"ping-pong"
